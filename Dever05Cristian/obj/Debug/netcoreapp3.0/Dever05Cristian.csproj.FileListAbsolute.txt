@@ -1,0 +1,11 @@
+G:\C#\Dever05Cristian\Dever05Cristian\bin\Debug\netcoreapp3.0\Dever05Cristian.exe
+G:\C#\Dever05Cristian\Dever05Cristian\bin\Debug\netcoreapp3.0\Dever05Cristian.deps.json
+G:\C#\Dever05Cristian\Dever05Cristian\bin\Debug\netcoreapp3.0\Dever05Cristian.runtimeconfig.json
+G:\C#\Dever05Cristian\Dever05Cristian\bin\Debug\netcoreapp3.0\Dever05Cristian.runtimeconfig.dev.json
+G:\C#\Dever05Cristian\Dever05Cristian\bin\Debug\netcoreapp3.0\Dever05Cristian.dll
+G:\C#\Dever05Cristian\Dever05Cristian\bin\Debug\netcoreapp3.0\Dever05Cristian.pdb
+G:\C#\Dever05Cristian\Dever05Cristian\obj\Debug\netcoreapp3.0\Dever05Cristian.csprojAssemblyReference.cache
+G:\C#\Dever05Cristian\Dever05Cristian\obj\Debug\netcoreapp3.0\Dever05Cristian.AssemblyInfoInputs.cache
+G:\C#\Dever05Cristian\Dever05Cristian\obj\Debug\netcoreapp3.0\Dever05Cristian.AssemblyInfo.cs
+G:\C#\Dever05Cristian\Dever05Cristian\obj\Debug\netcoreapp3.0\Dever05Cristian.dll
+G:\C#\Dever05Cristian\Dever05Cristian\obj\Debug\netcoreapp3.0\Dever05Cristian.pdb
